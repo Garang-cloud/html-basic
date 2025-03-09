@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: purple;
+}
+
+.Garang {
+    border: 3px solid blue;
+}
+
+#Hola {
+    border: 3px solid green;
+    height: 300px;
+    background-color: lightgray; /* Added a background color */
+}
+
+.Garang h1 {
+    color: pink;
+}
